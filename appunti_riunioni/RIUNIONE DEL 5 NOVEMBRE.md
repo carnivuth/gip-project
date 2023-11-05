@@ -1,0 +1,4 @@
+- da informazioni reperite sappiamo che 
+	- i pannelli si puliscono con acqua osmotizzata difficile da reperire ma economica
+	- le informazioni sull'efficienza energetica sono trasmesse ad un ottimizzatore (uno per ogni pannello) intercettabili in modalita wireless (investigare sulla tecnologia di trasmissione delle informazioni ) 
+		- possibili soluzioni implementative possono prevedere un microcontrollore (raspberry/arduino) che intercetta tale informazione e interagisce con un sistema fisico per avviare la pulizia
