@@ -1,1 +1,8 @@
 .obsidian/workspace.json
+*.pdf
+*latexmk
+*.aux
+*.gz
+*.toc
+*.log
+*.fls
