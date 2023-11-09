@@ -1,0 +1,15 @@
+- PROTOTIPO:
+	- è ok quello che abbiamo pensato: un Arduino (già ordinato) in cui facciamo leggere di volta in volta un report intrercettato dall'ottimizzatore. Teniamo traccia degli ultimi X risultati e quando decidiamo che è sufficientemente sporco, facciamo aprire uno sportello
+	- inoltre aggiungiamo anche un semaforino con led vede (= tutto ok), giallo (= prestazioni in calo) e rosso (= è ora di pulire) + pulsante per far avviare il risciacquo
+- LOGO:
+	- ci pensa la Cri, ha già diverse idee pronte fatte col tablet che non sono affatto male
+- VALUE PROPOSITION:
+	- deve essere o una frase a effetto stile slogan pubblicitario oppure anche una frase più "italiana" da usare come sottotitolo
+- EXXECUTIVE SUMMARY:
+	- (primo capitolo del report) lo facciamo per ultimo perchè conterrà il riassunto dell'intero report, deve essere max 1 pagina ed essere in grado di catturare l'attenzione dell'imprenditore
+- ANALISI DEL SETTORE:
+	- scrempiamo tutte le imprese che hanno codice ateco 35.11 e 27.11, otteniamo tutte quelle inerenti all'ambito fotovoltaico e procediamo con l'analisi usando queste
+	- per l'analisi quantitativa facciamo indice di crescita (se riusciamo) e indice di concentrazione, mentre per analisi qualitativa si è pensaato ad analisi SWOT e curve di valore
+- ANALISI DEL MERCATO:
+	- facciamo 2 personas che rappresentano utenti tipici (uno per utente privato e uno per impresa)
+	- MoSCoW può essere fatto in maniera molto elegante con PowerPoint
