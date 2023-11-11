@@ -1,0 +1,1 @@
+cat FatturatoPagina1.html | pup -i 4 'td'  | pup -i 4 '.dark-blue' | grep '    '  

@@ -1,0 +1,920 @@
+    Ren Electron Srl
+    Ripamonti Tranciature Srl
+    Energy Boost Srl
+    Technai Team Spa
+    Movimotor Srl
+    Sangalli Srl
+    F.I.D.A. Srl
+    Saccardo Gcf Srl
+    Elektrosaem Srl Unipersonale
+    Comer Srl
+    F.B. Srl
+    Elettromeccanica Rognoni Srl
+    Lmp Srl
+    Vte Srl
+    Itacoil Srl
+    Elettrotecnica G.M.P. Srl
+    Waris Energy Srl
+    Delios Srl
+    Av Digital Srl
+    L.C.M. Srl
+    Ned Srl
+    Cofi Srl
+    Kenta Srl
+    F.D.U.E.G. Srl
+    El.Pi. Cast Resin Srl
+    Elettromeccanica Tarcisio Pugni Srl
+    Elettromeccanica Elca Srl
+    Reset Spa Società Benefit
+    Regran Srl
+    Thermics Energie Srl
+    Olmo Motors Srl
+    Micromotors Srl
+    J.G.V. Elettro Srl
+    L.E. Ferrari Srl
+    Master Energia Srl
+    Cotrel Srl
+    Eclipse Italia Srl
+    Comatec Hi Tech Srl
+    Mlm Srl
+    Gemap 2 Srl
+    S.G. Srl
+    Tector Srl
+    S.B. Srl
+    Waris Srl
+    Gruppo Norton Srl
+    Gb194 Srl Società
+    Solbian Energie Alternative Srl
+    Emas Elettromeccanica Srl
+    Energifera Srl
+    Voltika Srl
+    Mace Power Srl
+    Elentek Srl
+    Vander Srl
+    Art Tra Srl
+    Energia Otto Srl
+    Comelmar Motors Srl
+    Trabo Srl
+    Elsamec Srl
+    Suzzi Srl
+    Nuovenergie Srl
+    Tesla Srl
+    Autom Elettrocostruzioni Industriali Srl
+    Vmec Energy Srl.
+    Systemcore Srl
+    Blu Srl
+    Tce Group Srl
+    Elettromeccanica F.E.R. Srl
+    Elettromeccanica Manfredini Srl
+    Eurogen Power Srl
+    M.D.G. Components Srl Unipersonale
+    Brollo Siet Srl
+    Zordan Srl
+    Electroil Srl
+    Elettromeccanica Gonella Srl
+    Sefal Production Srl
+    Emb Srl
+    Ematic Srl
+    Sirgen Srl
+    G.R. Motori Elettrici Spa
+    W.F.M. Srl
+    Ivm Srl
+    Enerblu Cogeneration Srl
+    Elettromeccanica Arduini Srl
+    Lo.Chi. Srl
+    Leam Srl
+    Cables Srl
+    Ocrev Srl
+    Zennarotrafo Srl
+    Ormad Gas Engine Srl
+    Rebo Motori Srl
+    F.T.M. Srl Fabbrica Trasformatori Di Misura
+    Lampas System Srl
+    Finmesa Scarl
+    Elma Servizi Industriali Srl
+    Starpower Srl
+    Dell&#39;erba Srl
+    Meth Srl
+    Gruppostg Fabbrica Srl
+    Co.Bitech Srl
+    Pfc Power Srl
+    Fimet Motori E Riduttori Srl
+    Progeco Srl
+    Elettromeccanica Altissimo Srl
+    I.C.M. Motori Srl
+    Electro Power Systems Manufacturing Srl
+    Aerosystems Srl
+    Fabbrica Italiana Motori Elettrici Casarini Società A Responsa Bilita&#39; Limitata
+    Zp Motori Elettrici Srl
+    West Elettric Srl
+    E.M.A. Group Srl
+    Emiliana Avvolgimenti Srl
+    Amre Srl
+    Elfus Tech Srl
+    2t Automazioni Srl
+    Baudino Service Srl
+    Enolgasitech Srl
+    Ev Srl
+    Ref Power Srl
+    Cear Srl
+    Motom Srl
+    Apd Technology Srl
+    Società Gestione Energie Frosinone Srl
+    Rowan Elettronica Srl
+    Co.Bo.T. Srl
+    El Tra Srl
+    Elit Srl
+    Maccatrozzo Trasformatori Srl
+    M.P. Trasformatori Srl
+    Rotafil Srl
+    Motorlift Srl
+    Kraus &amp; Naimer Srl
+    Energred Srl
+    Nord Acciai Srl
+    Lucchi R. Srl
+    Solarmatik Srl
+    C.M.S. Electric Motors Srl
+    Tem Electric Motors Srl
+    Bru.Impianti Group Srl
+    Siltech Srl
+    E.T.G. Srl
+    Sunage Srl
+    Acqua&amp;Co Srl
+    R.D. Elettronica Srl
+    Comeletric Srl
+    Elettromeccanica Galliera Srl
+    G.B. Automazione Srl
+    C.E.M. Elettromeccanica Srl
+    Ba.M.E. Srl
+    I.M.C. Srl
+    Biogas Italia Srl
+    Metaltrasfo Srl
+    I.E.T.E. Industria Emiliana Trasformatori Elettrici Società A Re Sponsabilita&#39; Limitata
+    Alessandri Srl
+    R.C.V. Srl
+    Elettromeccanica Croce Srl
+    Bertoli Srl
+    Nuova Mess Srl
+    Teca Srl
+    A.M.E. Srls
+    Alphaplan Srl
+    S.I.P.I.E. Società Italiana Per Istrumenti Elettrici Srl
+    Fly Solartech Solutions Srl
+    Electroterni Srl
+    Derbio Srl
+    Tessaro Avvolgimenti Srl
+    Cetec Srl
+    Mtm Energia Srl
+    Acm Engineering Srl
+    I Pergola Srl Società Benefit
+    Elettromeccanica Visconti Srl
+    Ssq Srl
+    Zucchiatti Bruno Elettromeccanica Srl
+    S.E.A. Motori Srl
+    O.C.R.E.M. Srl
+    G8 Motori Srl
+    Lanmar Srl
+    Elettrica Monteclarense Srl
+    Dreamsdesign Srl Unipersonale
+    Pv Engineering Srl
+    Braga Trasformatori Srl
+    Lara Energy Srl
+    Schlaefer Srl
+    S.A. Officine Elettromeccaniche Agostino Salomoni Srl
+    Novare Sistemi Innovativi Srl
+    Aster Srl
+    Ormet Srl
+    E.B.L. Elettromeccanica Baron Luciano Srl
+    Te.Co.S. Tecnologies Constructions System&#39;s Italia Srl
+    Varat Srl
+    Profel Srl
+    G.T.S. Elettrotecnica Srl
+    A.P.F. Srl
+    Mecamidi Italia Srl
+    F.C.E. Srl
+    Selmar Technologies Srl
+    Costruzioni Elettriche Nuove Srl
+    Global Energy Services Italia Srl
+    Gen Industriale Srl
+    Sap Srl
+    Overlap Tecnologie Srl
+    Hitachi Energy Italy Spa
+    Spal Automotive Srl
+    Ab Impianti Srl
+    Siemens Energy Srl
+    Vestas Blades Italia Srl Unipersonale
+    Tamini Trasformatori Srl
+    Came Spa
+    M.E.C.C. Alte Spa
+    Ametek Srl
+    Lafert Spa
+    Visa Spa
+    Green Power Systems Srl
+    Siemens Energy Transformers Srl
+    Tmc Transformers Spa
+    Nidec Fir International Srl
+    Solaredge E Mobility Srl
+    Hsd Spa
+    Marelli Motori Srl
+    Cebi Motors Spa
+    S.E.A. Società Elettromeccanica Arzignanese Spa
+    Elektro Group Srl
+    Eletras Srl
+    Ab Trasformatori Srl
+    G4energy Srl
+    Nuova Vecchi E Benedetti Srl
+    Beltrame Cse Srl
+    Pfc Magnetics Srl
+    Cem Di Elisei Carlo &amp; C. Srl
+    Lemart Srl
+    Sicei Srl
+    Av.El.To. Srl
+    Zwm Solutions Srl
+    T.E. Tecnologie Per L&#39;Energia Srl
+    E.M.T. Electronics Motors Transmissions Srl
+    Acquapendente Energy Srl
+    Cotrel Assemblaggi Srl
+    Elettromotori Srl
+    S.I.R.T.A. Srl
+    Parma Avvolgimenti Srl
+    F.A.R.T. Srl
+    C.E.M.A. Group Srl
+    Avvolgimenti Zampolli Srl
+    Effeti Srl
+    Hiq Mechanical Motion Srl
+    Ac Tec Srl
+    Ame Motori Srl
+    Contrel Srl
+    Xwind Srl
+    Elettromeccanica Lu.C.M.E. Srl
+    Rw Srl
+    Scandurra Srl
+    Elettroservice Srl
+    T.E. Srl
+    Elettromeccanica So.El.Ta. Srl
+    Bame Srl
+    Alintel Srl
+    Sa.In Srl
+    Mc Srl
+    Trasfotec Srl
+    Signorini F.Lli Srl
+    Samec Srl
+    Fuoco Srl
+    Trasfoservice Srl
+    Comelmar Italia Srl
+    Fce Srl
+    Due Esse Srl
+    O.E.M. Soluzioni Integrate Srl
+    P&amp;M Srl
+    Picenia Srl
+    Ac Energia Srl
+    Enunciabile Come S.I.G.E.M. Srl
+    Esperia Srl
+    Egra
+    Merx Energy Srl
+    Fc Elettromeccanica Arzignano Srl
+    Elettroscalve Srl
+    Impianti Solari Ing.Patrizi&amp;Patrizi Srl
+    Elettromeccanica Marrara Srl
+    Advel Srl
+    Geatecno Srl
+    Bomec Srl
+    Co.Me.Te. Società Cooperativa
+    Agostini Srl
+    Mitoli Trasformatori Srl
+    Nuova Remital Srl
+    Fashion Lamp Srl
+    Tekell Srl
+    Gino Lugli Srl
+    El.Mar. Srl
+    Ciriacono Srl
+    Sebigas Srl
+    Cuoghi Rolando Srl
+    Es Technology Srl
+    B. &amp; B. Isolamenti Srl
+    Pat Trasformatori Srl
+    Elfri Srl
+    Milano Generatori Srl
+    Zavel Srl
+    Itel Italiana
+    Rega Lux Srl
+    Wattsud Lavorazioni Elettromeccaniche Di Precisione Spa
+    Ema Italy Srl Electrical Motors &amp; Applications
+    Elettromeccanica Mp Srl
+    Orsaiec Srl
+    P.T.A. Srl
+    Elcom Produzione Srl
+    T &amp; T Srl
+    Rossetti &amp; Vergani Srl
+    Temi Srl
+    Full Power Srls
+    Bonato &amp; Veronesi Srl
+    Ambientefuturo Srl
+    Karlington Motors Srl
+    A.V. Srl
+    Motion &amp; Braking Control Srls
+    E.F.C. Srl
+    Solmotec Srl
+    Duerre Srl
+    Driwe Srl
+    T.L.G. Elettromeccanica Srl
+    G.E.I. Energia Srl
+    Fratus Angelo E Simone Srl
+    Synfastpower Srl
+    Ra.Pe.Ti. Srl
+    Vem Elettromeccanica Srl
+    Elettromeccanica 2b Srl
+    Bidac Srl
+    Costruzioni Generali Maiello Acque Srl
+    Fram Elettromeccanica Srl
+    Starcavi Srl
+    Cema Srl
+    Rf Electric Srl
+    Mec Generators Srl
+    Progetti Real Estate Butera Srl
+    Pro Gea Srl
+    Daver Motors Srl
+    E.M.S. Srl
+    B.B.R. Srl
+    Solarteg Srl
+    Co.El.Ge. Srl
+    Cds Srl
+    Vannucci Elettromeccanica Srl
+    Vtv Srl
+    Winsol Energy Systems Srl
+    Chemtech Solar Srl
+    Qohelet Solar Italia Spa
+    Sicep Srl
+    Miglionico Avvolgimenti Srls
+    Dam Srl
+    Tra.Ve.Ro. Srl
+    Elettromeccanica Bresciana Srl
+    Di Tec G.M.B.H. / Di Tec Srl Startup Costituita A Norma Dell&#39;articolo 4 Comma 10 Bis Del Decreto Legge 24 Gennaio 2015 N. 3
+    Rs Motori Elettrici Srl
+    Elettrocostruzioni S.A. Srl
+    Isme Srl
+    Atem Srl
+    Argen Srl
+    Elettromeccanica Lodigiana Srl
+    Coils Srl
+    Elettroforoni Srl
+    A.M.P. Srl
+    Zana Srl
+    Wiba Srl
+    Siciliana Generatori Srl
+    E.F.G. Elettromeccanica Srl
+    C.E.M. Srl
+    Winding Technologies Srl
+    Luce Venezia Srl
+    Esse.Ti.A Srl
+    Td Systems Srl
+    Zuccato Energia Srl
+    Energy Friends Colony Srl
+    Lars Italia Srl
+    Cta Trasformatori Elettrici Srl
+    Alfa Solar Power Srl
+    Solar Power Srl
+    Enecom Srl
+    Emicom Srl
+    Monaco Generatori Srl
+    Elettromeccanica Cogozzo Srl
+    Co.Bo.T. 2 Srl
+    Piemme Elektra Srl Società Unipersonale
+    Anagni Energia Srl A Socio Unico
+    Alter Elettronica Srl
+    Energia Muxaro Srl
+    Emmerre Srls
+    M.B.M. Srl
+    Gogogen Srl
+    Ecolibri&#39; Srl
+    Luxferov Srl
+    Ips Srl
+    Magnetic Power Cores Srl
+    Arsolar Srl
+    W.T.E. Waste To Energy Srl
+    El.Mar Srl
+    Othervisio Srl
+    Jewel Wind Srl
+    Electric Production Srl
+    Nuova Elettromeccanica 87 Srls
+    Simar Srl
+    Trasfem Srl
+    Belle Epoque Srl
+    Officina Elettromeccanica Falcetta Srl
+    Beneficio Solare Italia Srl
+    Ren Factory Srl
+    Ricci Srl
+    Opera Energia Srl
+    Pro Izy Srl
+    Belvederesi &amp; Giacco Di Belvederesi Lorenzo Srl
+    Trafo Industries Srl
+    Bove Srl Costruzione Gruppi Elettrogeni
+    Facem Owi Srl A Socio Unico
+    Sfem Srl
+    Gil Elettro Impianti Srl
+    Sebigas Renewable Energy Srl
+    Damiano Ferroviaria Srl
+    Progetto Gamma Srl
+    Società Agricola Energia Futura Srl
+    Morici &amp; Fabiani Srl
+    G.E.M. Electric Motor Srls
+    Trime Srl
+    Sisme Società Italiana Statori E Motori Elettrici Spa In Br Eve Sisme
+    Specialacciai Spa
+    Amer Spa
+    Compagnia Tecnica Motori Spa
+    Getra Power Spa
+    Bioenerys Agri Srl
+    Bruno Srl
+    Peimar Industries Srl
+    Tecnogen Spa
+    Orange 1 Electric Motors Spa
+    Tesar Srl
+    Engie Rinnovabili Spa
+    C.G.M. Gruppi Elettrogeni Srl
+    Elettromeccanica Tironi Srl
+    Siemens Gamesa Renewable Energy Wind Srl
+    Amisco Spa
+    Rpm Spa
+    Electro Parts Spa
+    Sunerg Solar Energy Srl
+    Sistemi Sud Italia Srl
+    Clk Srls
+    Mini Pack Srl
+    Losi Lombarda Collettori Srl
+    Power Geco Società Cooperativa
+    Ponzi Guglielmo Srl
+    Mitek Srl
+    F.L.P. Srl
+    Sbt Elettra Srl
+    Novael Srl
+    Eco Power System Srl
+    Eternit Free 3 Srl Unipersonale
+    Ali6 Srl
+    Coil Srl
+    Ce Trading Società A Responsabilita Limitata
+    Dmc Motors Srl
+    Gp Trasformatori Srl
+    Axma E.S.C.O. Srl
+    Illumind Srls
+    Iarge Srl
+    Ru Da Srl
+    Energie Alternative Srl
+    E.P.C. Italy Srl
+    Hydro Co. Engineering Srl
+    Cilento Energia Srl
+    Lucav Solar Epc Srl
+    Trasfostatik Srl
+    A2 Srl
+    Renovable Energy Wind Srl
+    Leta Srl
+    Solaraccess Investment Italy Srl
+    Mp Sicily Development Srl
+    Primavera Srl
+    Piana Ravera E C. Srl
+    F.Lli Coppo Srl
+    G Tek Srl
+    Pielle 2 Erre Srl
+    C.E.T. Costruzioni Elettromeccaniche Tecniche Srl
+    Elettromeccanica Ranieri Srl
+    Vl Srls
+    Società Costruzioni Elettromeccaniche Milone Srl (In Sigla So.C.E.M. Srl)
+    Hpd Srl
+    Ca.Me Srl
+    Carmiano Due Srl
+    Ferco Srl
+    Rgd Srl
+    A.M.G. Srls
+    O.E.M. Elettromeccanica Srl
+    Sgb Smit Italia Srl
+    Officine Tanzi Giorgio Srl
+    Idrogea Srl
+    Celf Energy Srl
+    Nor Se Di Mapelli Egidio Srl
+    Edison Elettronica Srls
+    Trasfo Srl
+    Ing. Brignolo Marcello Srl
+    Kappa Srl
+    Elettronica Cavallo Srl
+    Marel Srl
+    Elcom Srl
+    Veil Energy Srl Società Benefit
+    Elettromeccanica Iceb Srl
+    Terra Energia Srl
+    Fotovolt Srl
+    Ceab Piccone Srl
+    Carmiano Cinque Srl
+    Friendly Power Srl
+    Wem Windings Electric Motors Srl
+    Sophia Photovoltaic Srl
+    F.I.M.E.A. Engineering Srl
+    Wave For Energy Srl
+    Spiralis Srl
+    Giaste Srl
+    Energia Solare Srl
+    Evo Components Srls
+    Solar Power Srl
+    Ferrania Solis Srl
+    Apc Servo Srl
+    Eco Efficiency Srl
+    Co El Electra Srl
+    Elettroforest Srl
+    Qfp R&amp;D Srl
+    Stevam Srl
+    Fg Energia Srls
+    N.I.T. Srl
+    Polesana Fotovoltaico Società Cooperativa
+    Solaria 4 Srl
+    Proenergy Srl
+    D.F. Energy Srl
+    Elettromeccanica Cannone Srl
+    D.G.R. Trasmissioni Industriali Srl
+    R.E.P. Sun&#39;s Srl
+    Costruzioni Solari Srl
+    Prometeo Sistemi Srl
+    S Impianti Srl
+    Daltes Srl
+    Faist Electronics Srl
+    T.R.E. Srl
+    Energhon Group Srl
+    Acet Srls
+    Progress Srl
+    Sm4e Srl
+    Tekbio Srl
+    S.E.A. Sicurezza Energie Ambiente Srl
+    Ecologistica Srl
+    Hfv Salentina Srl
+    P.M. Srl
+    So.Co.Mecc. Società Cooperativa
+    E.S.Co. Berica Srl
+    N.G.E. Srl
+    Energy System Srl
+    Eco Sun Power Srl
+    Tecnosolare Carinaro Srl
+    Dart Srl
+    Cvenergy Farm Srl
+    Chemia Ep Srl
+    Sl Energetic Srl
+    Aco Srl
+    Wall Energy Srl
+    Gamma Srl
+    Stima Service Srl
+    B &amp; B Trasformatori Srl
+    Enewrgy Srl
+    At Motors Srl
+    Elfor Srl
+    Elettromeccanica Bergamini Srl
+    Kappa Motor Srl
+    Ubisol Srl
+    Pulse Srl
+    Rio Riazzone Energy Srl
+    Elettromeccanica Minardi Srl Artigiana
+    Soliseo Srl In Tedesco Soliseo G.M.B.H.
+    Enermesa Scarl
+    R2 Trasformatori Srl
+    Tb Solar Srl
+    Meq Gearmotors Srls
+    Hydro Power Srl
+    Perseo Srls
+    Solar Park Padana Srl
+    Elettromeccanica Bolognese Srl
+    Torri Solare Srl
+    Nextronic Srl
+    Enerservice Srl
+    International Polyfuel Machines Srl
+    Saber Srl
+    Società Energetica Elettrica Antermont Srl
+    Axa Exergy Srl
+    Mct Srl
+    Sixenergy Srl
+    Cogeam Srl
+    Tecnobiella Srl
+    Infrastrutture Spa
+    Protoma Srl
+    Avetrana Tre Srl
+    Nanotech Italia Srl
+    Domotik Srl Con Sigla Domotik S. R.L.
+    Opera Renew Srl
+    Green Energy Design Project Srl
+    Berica Impianti Srl
+    Manduria Uno Srl
+    A.Tek. Srl
+    Fa Figliano Andrea Srl
+    Ifa Onofrio Srl
+    Mac Helios Srl
+    Da.El Srls
+    Fev Srl
+    Eco &amp; Logic Srl
+    Assemblaggi Moro Srls
+    Yur Power Iii Srl
+    Eureco Srl
+    Rea Srl
+    Elettromeccanica Castello Srl
+    Albasol Italia Srl
+    Deagle Srl
+    Bame Electric Motors Srl
+    Mepol Srl
+    Genpro Srls
+    Marcoriello Srl
+    Mt.El.Techs Srl
+    Solon Spa
+    Opera Roof Srl
+    Greenwatt Srl
+    Solar Srl
+    Vagnini Wilson Srl
+    Speeder Ax Srl
+    Energaia Inventa Srl
+    Parco Eolico Monacilioni Srl
+    Fast Srl
+    Mt Way Srl
+    F.E.M.I. Srls
+    Eye Srl
+    Tesma Srl
+    Elettromeccanica 87 Srl
+    Bp Energy Srl
+    Casa Toppa Srl
+    Enerpadana1 Srl
+    T&amp;T Energia Srl
+    Greenwaves Technologies Srls
+    Solar Solutions Italia Srl
+    Et International Srl
+    In M.P.C. Srl
+    Convert Italia Spa
+    Exe Srl
+    Soga Spa
+    De Pretto Industrie Srl
+    Westrafo Srl
+    Sunerg Solar Srl
+    Per Brevita&#39; A.R.S. Srl
+    Lafert Servo Motors Spa
+    Asja.Biz Spa
+    Newton Trasformatori Spa
+    Way Srl
+    Elvi Srl Motori Elettrici
+    Electro Adda Spa
+    Ride Srl
+    I.M.E. Industria Motori Elettrici Spa
+    Intergen Spa
+    Phase Motion Control Spa
+    Elcos Srl
+    Roger Technology Srl
+    Voltaico Piu&#39; Srl
+    C.A. Srls
+    Enerinvest Srl
+    Tecnoimpianti Energia Srl
+    Rovigo Solar Srl
+    Beausoleil Srl
+    Greenetica Srl
+    Mondo Varchi Srl
+    Ett Srl
+    Fotovsolar Spa
+    Cerchio Energia Srl
+    Dyaqua Srls
+    Actasol 5 Srl
+    Quattropuntozero Srl
+    S. Martino Biogas Srl
+    L&#39;Avvolgitrice Srl
+    Elettrotermica Srl
+    Enal Impianti Srl
+    Consorzio Innovazione Industriale
+    Piramide Srl
+    Y.E.S. Your Energy Solutions Srl
+    Texa Dynamics Srl
+    So.T.Evo. Srl Soluzioni Tecnologiche Evolute Società Uniper Sonale
+    Bikee Bike Srl
+    Effe Erre Motors Srl
+    T.P. Energy Industrie Srl
+    Dag Energy Srl
+    C.M.S. Elettromeccanica Srl
+    C.Ed.Im. Srl
+    C &amp; C Società Cooperativa
+    Iridenergy Srl
+    G.D.F. Srl
+    Edo Italy Srl
+    Serv.Ind. Srl
+    O.C.E. Srl
+    Click Energie Srl
+    Castelluccia Energia Srl
+    Twim Energy Srl
+    F.I.M.E.S Srl(Fabbrica. Italiana. Motori. Elettrici. Sommersi)
+    Elman Srl
+    Elettromeccanica Bertucco Srl
+    G.E.D. Avvolgimenti Srl
+    Ropatec Gmbh
+    Dual Energy Srl
+    Par Energy Srl
+    Rhea Srls
+    Mariani Ingegneria Srl
+    A. Energy Srl
+    Officine Elettromeccaniche Marsanasco Srl
+    Aemme Solare Srl
+    Vpm Solar Repowering Srl
+    Energy Cube Srl
+    Startef Srl
+    Anche Denominata Sealence Spa S.B.
+    Interea Srl
+    Oceanext Srl (Startup Costituita A Norma Dell&#39;articolo 4 Comma 10 Bis Del Decreto Legge 24 Gennaio 2015 N. 3)
+    Five Srl
+    Eos Tec Srl
+    Up Creative Beat Srl
+    Alfa Assemblaggi Srl
+    Sictec Srl
+    Costruzioni Elettromeccaniche Srl
+    G &amp; G Energy Group Srl
+    Driwe Service Srl Costituita A Norma Dell&#39;art.4 Comma 10 Bis Del Decreto Legge 24 Gennaio 2015 N.3
+    Naos Energy Srl
+    Mp Sicily 2 Srl
+    Eli Renew Srl
+    Kira Technology Srl
+    Bisotech Srl Unipersonale
+    Mantova Energia Srl
+    Robotech International Srl
+    Blue Storm Srls
+    Liglass Development Italy Srl
+    Renewables Srl
+    E.T. Srl Con Unico Socio
+    Logi.Tech Srl
+    Biosviluppi Srl
+    Solar Energy Project Srl
+    Energy Green Pollino Srl
+    Motori Generatori Ricambi Srl
+    Costruzioni Elettroniche Elettromeccaniche E Affini Srl A Soci O Unico
+    Star Engine Srl
+    Energia Eolica Mediterranea Srl
+    Algoritmo Srl
+    Web Pv Bisaccia Srl
+    Sike Green &amp; Power Srl
+    Energia Alternativa Srl
+    Spem Srl
+    Sole In Fiera Srl
+    Omnia Energy Srl
+    Com.Trade Srl
+    Engineering Laboratory Sistemi Di Informazione Territoriali Srl .
+    Sge Italia Srl
+    Anche Pti Srl
+    Ladhi Srl
+    Mextli Srls
+    Variagen Srl
+    Pellet Generation Srl
+    Enviroservice Technology Srl
+    Emeck Srl
+    Gquadro Srl
+    Iram Srl Società
+    Gruppostg Srl Start Up Costituita A Norma Dell&#39;art.4 Comma 10 Bis Del Decreto Legge 24 Gennaio 2015 N.3
+    Sunel Società Cooperativa
+    So.S.T.A. Srl
+    Green Engineering Srl Società
+    Comema Srl
+    Helianthus Srl
+    Bysea Srl
+    Aerospace Photovoltaic Italy Srl
+    Biaxial Srl
+    Fin.Pig Srl
+    Tplan Srl
+    Valore Energia Srl
+    Mistral Srl
+    Studio 2 Energy Srl
+    Ebfoil Srl
+    Resole Srl
+    Nexap Srl
+    Zerowire Srl Spin Off Dell&#39;universita&#39; Degli Studi Dell&#39;aqui La
+    Zerowire Srl Spin Off Dell&#39;universita&#39; Degli Studi Dell&#39;aqui La
+    M.E.I. Mobil Edil Impianti Srl
+    Roboris Srl
+    Range Extender Srl
+    Av Project Srl
+    Rte Srl
+    Green Climate Ventures Srl
+    Solarmaker Srl
+    Isomorph Production Srl
+    Marpis Srl
+    Aquasanta Srl
+    Bipv Srls
+    C.V.V. Srl
+    Ergon Srl
+    Nt Made Srl
+    Mc Tre Srl
+    Bentu Srl
+    Levante Srl Società Benefit
+    Impiantistica Innovativa Scarl.
+    Mgs Engineering Srl
+    Mt Milan Tractor Spa
+    Nidec Fir Italia Srl
+    El Mi Srl
+    Neri Motori Srl
+    Coelmo Spa
+    Italvibras Giorgio Silingardi Società Per Azioni
+    Dometic Italy Srl
+    R.G.M. Srl
+    Emc Fime Srl
+    Comelit Spa
+    De Nora Water Technologies Italy Srl
+    E.M.G. Power Electric Srl
+    Carpanelli Spa
+    Mf Trasformatori Srl
+    Ago Renewables Spa
+    Nsm Srl
+    Elettromil Srl
+    Genmac Srl
+    Energy Srl
+    Rrx Italy Holding Srl
+    L.E.F. Srl
+    T.M.A. Spa
+    C.F.R. Srl
+    Imefy Srl
+    Icme Spa
+    Ebg Srl
+    Pm Srl
+    Tecno Electric Srl
+    Motek Srl
+    M.G.M. Motori Elettrici Spa
+    Effetre Fenice Energia Srl
+    Margen Spa
+    O.E.G. Officina Elettromeccanica Gottifredi Srl
+    Num Spa
+    M.T. Motori Elettrici Srl
+    Marini Trasformatori Srl
+    I.M.S. Srl
+    Trafo Elettro Srl
+    Moratto Srl
+    Tessari Energia Spa
+    Storti Srl
+    Biomasse Olevano Srl
+    Sumoto Srl
+    Bluergo Srl
+    Celme Srl
+    Ausonia Srl
+    Volturino Wind Srl
+    F.A. Srl
+    Celano Green Energy Spa
+    Mase Generators Spa
+    Nicolini &amp; C. Srl
+    Fa Ferrara Avvolgimenti Srl
+    Società Industriale Motori Elettrici S.I.M.E.L. Società Per Azioni
+    Power Europe Srl
+    Trasf Eco Srl
+    Motori Bonora Società Per Azioni
+    Electraimpianti Srl
+    Best Motor Srl
+    Ase Spa
+    Edp Renewables Italia Holding Srl
+    Motive Srl
+    Lemon Sistemi Spa
+    Rael Motori Elettrici Srl
+    Elettromeccanica Piossasco Srl
+    Mini Motor Società Per Azioni
+    Semar Electric Srl
+    Ravel Srl
+    Fise Spa
+    Motortecnica Srl
+    Dagu Srl
+    Euromotori Srl
+    Ascot Industrial Srl
+    Italweber Elettra Srl
+    Mori Raddrizzatori Srl
+    Gen Set Spa
+    Tecnotenda2 Srl
+    Tecnocablaggi Srl
+    Redi Srl
+    Elte Srl
+    Ber Mar Srl
+    Valtaro Motori Srl
+    Cer Power Srl
+    Brusatori Srl
+    Fmi Fan Motors Italia Srl
+    O.M.E. Srl
+    Besozzi Elettromeccanica Srl
+    Meca T.E. Srl
+    Vem Spa
+    M.B.T. Elettromotori Srl
+    Trasfo Project Srl
+    Zanardi Alternatori Srl
+    Oli Ebike Systems Srl
+    9ren People Srl
+    Labor Group Srl
+    Vip Air Empowerment Srl
+    Sali Abele Avvolgimenti Elettrici Srl
+    Traser Italia Srl
+    Teknomotor Srl
+    Eletrafo Srl
+    Bbc Elettropompe Srl
+    Mcm Srl
+    I.P.M. Technologies Srl
+    Metalrota Srl
+    Bronzoni Motori Elettrici Srl
+    Botter Elettrotecnica Srl
+    A.L. Srl
+    F.M.C. Srl
+    Italtower Srl
+    G.E.A.F. Spa
+    Fier Srl
+    Aaco Manufacturing Srl
+    Finmotor Srl
+    C.M.E. Costruzioni Macchine Elettriche Srl
+    Elmo Srl
+    Bonani Spa
+    Hpg Srl Hydro Power Gen
+    Intermagnetics Srl
+    Laser Industries Srl
+    Vallee Trafor Srl
+    Avel Srl
