@@ -1,13 +1,15 @@
 {
 	"nodes":[
-		{"id":"de14974087d55a1a","x":-979,"y":-472,"width":250,"height":60,"type":"text","text":"# RIUNIONI\n"},
+		{"id":"de14974087d55a1a","type":"text","text":"# RIUNIONI\n","x":-979,"y":-472,"width":250,"height":60},
 		{"id":"4318dbc8e059b6ec","type":"text","text":"# PROGETTO PANNELLI ","x":-454,"y":-582,"width":222,"height":110},
 		{"id":"1b5e737c862cbc43","type":"file","file":"appunti_riunioni/RIUNIONE DEL 5 NOVEMBRE.md","x":-1420,"y":-320,"width":400,"height":96},
-		{"id":"7c3e7cdb5c285438","type":"text","text":"# FORM GOOGLE CON SURVEY\nhttps://docs.google.com/forms/d/e/1FAIpQLSf65STY9c024gjaCL0ih_2n0CCFVqbAYwnpum_E9ns3wSv41g/viewform","x":-454,"y":-260,"width":362,"height":212}
+		{"id":"7c3e7cdb5c285438","type":"text","text":"# FORM GOOGLE CON SURVEY\nhttps://docs.google.com/forms/d/e/1FAIpQLSf65STY9c024gjaCL0ih_2n0CCFVqbAYwnpum_E9ns3wSv41g/viewform","x":-454,"y":-260,"width":362,"height":212},
+		{"id":"3ff09815d1571280","x":80,"y":-360,"width":241,"height":255,"type":"text","text":"# DATI AZIENDE\n\nhttps://docs.google.com/spreadsheets/d/13Be8Uu5JgLhGXrCx_OBNIy2qmYSS3TRg0UzW5C98Mw8/edit#gid=0"}
 	],
 	"edges":[
 		{"id":"a6715c89dd78c82a","fromNode":"4318dbc8e059b6ec","fromSide":"left","toNode":"de14974087d55a1a","toSide":"right"},
 		{"id":"7a27dbb6472c8413","fromNode":"4318dbc8e059b6ec","fromSide":"bottom","toNode":"7c3e7cdb5c285438","toSide":"top"},
-		{"id":"27253bf534476918","fromNode":"de14974087d55a1a","fromSide":"bottom","toNode":"1b5e737c862cbc43","toSide":"top"}
+		{"id":"27253bf534476918","fromNode":"de14974087d55a1a","fromSide":"bottom","toNode":"1b5e737c862cbc43","toSide":"top"},
+		{"id":"e16056f137ff773c","fromNode":"4318dbc8e059b6ec","fromSide":"right","toNode":"3ff09815d1571280","toSide":"top"}
 	]
 }
