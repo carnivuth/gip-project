@@ -18,36 +18,37 @@ Maybe    Egi Srl
 nope    International Quadri Srl
 nope    E Lectra Srl
 nope    E.C.I. Elettro Cablaggi Impianti Srl
-    G.S. Elettromeccanica Srl
-    Gruppo Ferrari Srl
-    C.E.Me. Srl
-    Silectra Srl
-    Gestech Srl
-    Gigieffe Srl
-    Alfaquadri Srl
-    Ga Tech Srl General Automation &amp; Technology
-    Cabel Energy Srl
-    Cable Electric Srl
-    Istra Srl
-    E.B. Up! Srl
-    C.M.C. Antideflagranti Srl
-    Luigi Floridia Srl
-    Syntech Automazioni Srl
-    Ro.Pe. Meccanica Srl
-    Genstart International Srl
-    Control Matic System Srl
-    Teletronic Srl
-    Varesequadri Srl
-    T.M. Automatismi Srl
-    Ceif Italia Srl
-    Une Srl
-    Erreuno Srl
-    Spectra Group Srl
-    New Vmr Srl
-    Best Solutions Società Cooperativa
-    Elettrowatt Srl
-    Ema Automazione Srl
-    Milesi Sistemi Srl
+nope    G.S. Elettromeccanica Srl
+nope    Gruppo Ferrari Srl
+Maybe    C.E.Me. Srl
+nope    Silectra Srl
+nope    Gestech Srl
+nope    Gigieffe Srl
+nope    Alfaquadri Srl
+nope    Ga Tech Srl General Automation &amp; Technology
+Maybe    Cabel Energy Srl
+nope    Cable Electric Srl
+nope    Istra Srl
+nope    E.B. Up! Srl
+nope    C.M.C. Antideflagranti Srl
+nope    Luigi Floridia Srl
+Maybe    Syntech Automazioni Srl
+nope    Ro.Pe. Meccanica Srl
+nope    Genstart International Srl
+nope    Control Matic System Srl
+nope    Teletronic Srl
+nope    Varesequadri Srl
+nope    T.M. Automatismi Srl
+nope    Ceif Italia Srl
+Maybe    Une Srl
+nope    Erreuno Srl
+nope    Spectra Group Srl
+Maybe    New Vmr Srl
+nope    Best Solutions Società Cooperativa
+nope    Elettrowatt Srl
+nope    Ema Automazione Srl
+nope    Milesi Sistemi Srl
+-50---------------------------------------------------------------------------------------
     255 Handling Engineering &amp; Controls Srl Brevemente Chiamata 255 H.E.C.
     Quba 3 Srl
     Errebi Group Srl
@@ -98,6 +99,7 @@ nope    E.C.I. Elettro Cablaggi Impianti Srl
     Tema Energy Srl
     Elmi Elettromeccanica Milano Srl
     Tecnoindustrial Amandola Srl
+-100---------------------------------------------------------------------
     General Quadri Srl
     Ma. Vi. Elettrica Srl
     D.E.C.A. Sistem Srl Dall&#39;ora Elettric Center Automation
