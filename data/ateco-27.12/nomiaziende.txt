@@ -1,23 +1,23 @@
-    C.E.P.E. Costruzioni Elettromeccaniche Pneumatiche Elettroniche Srl
-    Zorzan Sistemi Srl
-    Syatec Srl
-    Gadda Automation Srl
-    Elpower Srl
-    Elettroapparecchiature Friggeri Srl
-    Teknoelettronica Srl
-    Elettrosystem Srl
-    Mipro Srl
-    Ab Power Srl
-    S.M.E.A. Srl
-    Silpi Srl
-    Panel Builder Srl
-    Movitech Srl
-    Elekta Srl
-    Esapt Srl
-    Egi Srl
-    International Quadri Srl
-    E Lectra Srl
-    E.C.I. Elettro Cablaggi Impianti Srl
+nope    C.E.P.E. Costruzioni Elettromeccaniche Pneumatiche Elettroniche Srl
+nope    Zorzan Sistemi Srl
+nope    Syatec Srl
+nope    Gadda Automation Srl
+Maybe    Elpower Srl
+boh    Elettroapparecchiature Friggeri Srl
+nope    Teknoelettronica Srl
+Maybe    Elettrosystem Srl
+nope    Mipro Srl
+Maybe    Ab Power Srl
+Maybe    S.M.E.A. Srl
+nope    Silpi Srl
+nope    Panel Builder Srl
+nope    Movitech Srl
+nope    Elekta Srl
+nope    Esapt Srl
+Maybe    Egi Srl
+nope    International Quadri Srl
+nope    E Lectra Srl
+nope    E.C.I. Elettro Cablaggi Impianti Srl
     G.S. Elettromeccanica Srl
     Gruppo Ferrari Srl
     C.E.Me. Srl
