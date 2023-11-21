@@ -25,10 +25,14 @@ Circuito:
 
 // CIRCUIT ELEMENTS
 LiquidCrystal lcd(12, 11, 5, 4, 3, 2);  
+
+Servo Servo1;
+
 int ledRed = 7;
 int ledYellow = 8;
 int ledGreen = 9;
-Servo Servo1;
+
+int button = 13;
 
 // SYSTEM PARAMETERS
 //eficiency
@@ -37,6 +41,8 @@ int EFICIENCY=100;
 // TO BE SET FOR OPTIMAL DEMO 
 int WARNING_TRESHOLD=95;
 int CRITICAL_TRESHOLD=90;
+
+int buttonState=0;
 
 // DISPLAY FUNCTIONS
 // Clear display
@@ -69,6 +75,7 @@ void startCleanUp(){
 void setup() {  
   // circuit setup
   pinMode(ledGreen,OUTPUT);
+  pinMode(button,INPUT);
   pinMode(ledRed,OUTPUT);
   pinMode(ledYellow,OUTPUT);
   Servo1.attach (6);
@@ -92,7 +99,10 @@ void setup() {
 void loop() {  
   clearDisplay();
   EFICIENCY-=1;
-  
+  buttonState = digitalRead(button);
+  if(buttonState == HIGH){
+    startCleanUp();
+  }
   if(EFICIENCY > WARNING_TRESHOLD){
     lcd.print("efficienza:");  
     lcd.print(EFICIENCY);  
