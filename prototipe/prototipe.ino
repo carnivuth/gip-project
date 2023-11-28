@@ -59,15 +59,15 @@ void startCleanUp(){
   digitalWrite(ledRed,HIGH);
   digitalWrite(ledGreen,LOW);
   digitalWrite(ledYellow,LOW);
-  Servo1.write(90);
+  Servo1.write(180);
   delay(1000);
   // end cleanup process
   clearDisplay();
   lcd.print("pulizia completata");  
   Servo1.write(0);
-  digitalWrite(ledRed,LOW);
-  digitalWrite(ledGreen,LOW);
-  digitalWrite(ledYellow,LOW);
+  //digitalWrite(ledRed,LOW);
+  //digitalWrite(ledGreen,LOW);
+  //digitalWrite(ledYellow,LOW);
   EFICIENCY=100;
 
 }
@@ -90,7 +90,7 @@ void setup() {
   Servo1.write(0);
 
   // hello 
-  lcd.print("Corte di napoli");  
+  lcd.print("OSMOS");  
   delay(1000);
 
 
