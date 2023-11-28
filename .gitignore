@@ -6,4 +6,8 @@
 *.toc
 *.log
 *.fls
+*.bin
+*.hex
+*.elf
+*.eep
 aziende*
