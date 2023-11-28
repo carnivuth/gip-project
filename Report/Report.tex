@@ -140,9 +140,37 @@
 	%	- costi: manodopera per installazione (dipende da installazione a installazione) e materie prime... diciamo un 50 euro + manodopera?
 	%	- prezzo di vendita = costi + 25%?
 	\section{Funzionamento del prodotto}
+	
+
+	%cosa dire:
+	% descrizione introduttiva delle funzionalita offerte dalla soluzione 
+	\emph{Osmos} è un sistema di supporto alla pulizia di un impianto fotovoltaico,
+	 esso e composto da un device in grado di monitorare l'efficienza dei pannelli 
+	 e un supporto idraulico per il rilascio del detergente sul pannello.\\Di seguito un immagine del prodotto
+
+
 	\begin{center}
 		\includegraphics[width=0.5\textwidth]{Images/prototipo.jpg}
 	\end{center}
+
+	% descrizione del device principale
+	Il device principale si compone di un microcontrollore in grado di monitorare l'efficienza energetica dei pannelli.
+	Cio viene fatto intercettando tramite rete wireless i report prodotti dagli ottimizzatori installati nell'impianto fotovoltaico
+	le informazioni raccolte vengono mantenute all' interno del sistema in modo da mantenere uno storico dello stato recente dell'impanto.
+	Il dispositivo dispone di un display e un interfaccia a led che mostrano l'efficienza in percentuale dell'impianto 
+	Il sistema avvia la pulizia del pannello quando l'efficienza cala sotto la soglia configurabile dall' utente, 
+	oppure su interazione dell'utente tramite un pulsante posto sul device.
+	Quando viene avviata la procedura di pulizia il device attiva un sistema idraulico che versa l'apposito detergente sul pannello\\
+	\\
+	
+	% descrizione del sistema idraulico
+	Il supporto idraulico del sistema e composto da una pompa idraulica e un serbatoio contenente il detergente. 
+	Al momento della pulizia la pompa idraulica viene attivata per scaricare tramite un apposito sportello il detergente sulla superficie,
+	il detergente esausto viene smaltito dal sistema nella rete idraulica dell' edificio.
+	Il sistema prevede un facile accesso al serbatoio in modo da facilitare le operazioni di carico del detergente.
+	% MONSTER ALLERGY MI FAN STARNUTIR
+	% quali tecnologie gia esistenti sfrutta la soluzione
+
 	\section{WBS e prospetto di Gantt}
 	In precedenza sono stati elencati gli elementi e attività fondamentali per \emph{Osmos}. Questi possono essere pianificati racchiudendoli in 4 macro attività che rappresentano l'intero progetto:
 	\begin{enumerate}
