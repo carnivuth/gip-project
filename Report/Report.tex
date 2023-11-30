@@ -56,19 +56,23 @@
 	\newpage
 	
 	\section{Executive Summary} %provo a dire 4 cagate però non sono certa di cosa inserire effettivamente
-	Il progetto si propone di automatizzare la pulizia dei pannelli fotovoltaici.\\
-	Tramite il monitoraggio dell'efficienza del pannello il sistema si rende conto di quando è necessaria la pulizia, e insieme all'apposito macchinario connesso alla rete idraulica si occupa della pulizia dello stesso, rendendo più semplice e meno stancante per l'utilizzatore il processo di pulizia.\\\\
-	Inoltre il nostro prodotto rende anche più abbordabile l'idea di installare dei pannelli fotovoltaici nelle proprie strutture, in quanto il nostro prodotto risulta più economico di altre soluzioni attualmente esistenti, e data l'espansione del mercato fotovoltaico, e per il calo dei prezzi di installazione degli impianti negli ultimi anni, la nostra soluzione risulta accattivante sia per nuovi utenti che per utilizzatori di vecchia data, perché il nostro componente si va ad aggiungere a impianti già esistenti e ne migliora le prestazioni. \\
-	Nella dissertazione seguente andremo ad analizzare più in dettaglio il problema ed il bisogno, conseguentemente esplicheremo la nostra soluzione e come essa si inserisce nel mercato, i vantaggi che porta e le curve di mercato.\\
-	\\
-	Inoltre esporremo l'analisi della clientela, analizzata attraverso la somministrazione di un form online, %bo poi la diciamo meglio
-	 esporremo le conclusioni tratte dai dati e tramite Empathy Map, Proposizione di Valore e l'utilizzo del modello MoSCoW andremo a spiegare %che cazzo ne so ancora manca il capitolo 
-	 . \\\\
-	 Esporremo poi il Modello di Business dove discuteremo le Value Proposition, la relazione col cliente, gli elementi chiave e l'analisi di costi e ricavi, mostrando il business Model Canvas.
-	\\\\
-	In conclusione, attraverso WBS e il prospetto di GANTT andremo ad indicare le attività principali da svolgere e il loro collocamento temporale.
-	\\\\
-
+	\textbf{Il problema}\\
+	Tra tutte le fonti di energia rinnovabile, l'energia solare è quella più presente nella vita di tutti i giorni tramite impianti comporti da pannelli solari e fotovoltaici. Questi impianti, essendo installati all'aria aperta, sono esposti alle condizioni climatiche che sporcano la superficie fotovoltaica attraverso polvere, smog, foglie e sabbia.\\
+	Senza una pulizia adeguata, un pannello sporco può perdere fino al 30\% della propria efficienza energetica, riducendone il potenziale. Tuttavia se non ci si vuole rivolgere a specialisti della pulizia ogniqualvolta è necessario un intervento, le uniche soluzioni autopulenti sono estremamente costose oppure non prive di difetti.\\\\
+	\textbf{La soluzione}\\
+	\emph{Osmos} si propone di automatizzare la pulizia dei pannelli fotovoltaici.\\
+	Tramite il monitoraggio dell'efficienza del pannello il dispositivo fornito si rende conto di quando è necessaria la pulizia, e insieme all'apposito sistema idraulico si occupa del lavaggio del modulo stesso, rendendo più semplice, meno stancante e più economico per l'utilizzatore il processo di pulizia. Infatti grazie ad un sistema \emph{Osmos}, non sarà più necessario contattare imprese esterne specializzate nel lavaggio.\\
+	%Inoltre il nostro prodotto rende anche più abbordabile l'idea di installare dei pannelli fotovoltaici nelle proprie strutture, in quanto il nostro prodotto risulta più economico di altre soluzioni attualmente esistenti, e data l'espansione del mercato fotovoltaico, e per il calo dei prezzi di installazione degli impianti negli ultimi anni.
+	La soluzione proposta può risultare accattivante sia per nuovi utenti che per utilizzatori di vecchia data del fotovoltaico, perché il prodotto si va ad aggiungere a impianti già esistenti cooperandovi per migliorare le prestazioni.\\\\
+	\textbf{Il settore}\\
+	Come tutte le fonti di energia rinnovabile, anche il settore del fotovoltaico è in rapido aumento. Ciò è dovuto sia al fatto che queste risorse stanno guadagnando sempre più importanza, sia al fatto che il costo degli impianti fotovoltaici sta diminuendo nel tempo.\\
+	Il settore è ricco di prodotti che integrano le capacità degli impianti fotovoltaici andando ad implementare features aggiuntive in modo simile ad \emph{Osmos}. In una situazione di questo tipo il progetto proposto per affermarsi fa leva sulla mancanza di soluzioni analoghe, oltre che sulla possibilità di fornire un beneficio al cliente.\\\\
+	\textbf{Il mercato}\\\\
+	%Nella dissertazione seguente andremo ad analizzare più in dettaglio il problema ed il bisogno, conseguentemente esplicheremo la nostra soluzione e come essa si inserisce nel mercato, i vantaggi che porta e le curve di mercato.\\\\
+	%Inoltre esporremo l'analisi della clientela, analizzata attraverso la somministrazione di un form online, %bo poi la diciamo meglio
+	%esporremo le conclusioni tratte dai dati e tramite Empathy Map, Proposizione di Valore e l'utilizzo del modello MoSCoW andremo a spiegare %che cazzo ne so ancora manca il capitolo
+	%Esporremo poi il Modello di Business dove discuteremo le Value Proposition, la relazione col cliente, gli elementi chiave e l'analisi di costi e ricavi, mostrando il Business Model Canvas.\\\\
+	%In conclusione, attraverso WBS e il prospetto di Gantt andremo ad indicare le attività principali da svolgere e il loro collocamento temporale.\\\\
 	\newpage
 	\section{Problema da risolvere}
 	Ai giorni nostri sempre maggiore importanza viene attribuita alle fonti di energia rinnovabili. Tra queste, l'energia solare è particolarmente degna di nota in quanto inesauribile, disponibile in enormi quantità ed utilizzabile per produrre energia elettrica e termica.\\
@@ -162,7 +166,7 @@
 	\emph{Osmos} è un sistema di supporto alla pulizia di un impianto fotovoltaico principalmente composto da un device in grado di monitorare l'efficienza dei pannelli 
 	e un supporto idraulico per il rilascio del detergente sul pannello. \'E inoltre dotato di un recipiente sufficientemente ampio per poter contenere l'acqua osmotica necessaria ad almeno un lavaggio.\\Di seguito un immagine schematica del prodotto:
 	\begin{center}
-        \includegraphics[width=0.5\textwidth]{Images/Prototipo2.PNG}
+		\includegraphics[width=0.5\textwidth]{Images/PROTOTIPO2.PNG}
 	\end{center}
 	% descrizione del device principale
 	Il device principale, che gestisce l'intera logica della pulizia, si compone di un microcontrollore in grado di monitorare l'efficienza energetica dei pannelli. Ciò viene fatto intercettando tramite rete wireless i report prodotti dagli ottimizzatori installati nell'impianto fotovoltaico i quali hanno il compito di monitorare ad intervalli regolari ogni singolo modulo fotovoltaico. Ogniqualvolta questi producono un report, le informazioni raccolte vengono mantenute all'interno del sistema in modo da tener traccia di uno storico dello stato recente dell'impanto.\\
