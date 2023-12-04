@@ -1,4 +1,6 @@
 \documentclass[a4paper, 12pt]{article}
+\usepackage{mathptmx}
+\linespread{1}
 \usepackage{amssymb}
 \usepackage[english,italian]{babel}
 \usepackage{xspace}
@@ -24,9 +26,6 @@
 \usepackage{hyperref}
 
 \begin{document}
-	
-	% interlinea 1
-	\linespread{1}
 	
 	% 2.5cm di margine su ogni lato
 	\newgeometry{
@@ -57,22 +56,18 @@
 	
 	\section{Executive Summary} %provo a dire 4 cagate però non sono certa di cosa inserire effettivamente
 	\textbf{Il problema}\\
-	Tra tutte le fonti di energia rinnovabile, l'energia solare è quella più presente nella vita di tutti i giorni tramite impianti comporti da pannelli solari e fotovoltaici. Questi impianti, essendo installati all'aria aperta, sono esposti alle condizioni climatiche che sporcano la superficie fotovoltaica attraverso polvere, smog, foglie e sabbia.\\
-	Senza una pulizia adeguata, un pannello sporco può perdere fino al 30\% della propria efficienza energetica, riducendone il potenziale. Tuttavia se non ci si vuole rivolgere a specialisti della pulizia ogniqualvolta è necessario un intervento, le uniche soluzioni autopulenti sono estremamente costose oppure non prive di difetti.\\\\
+	Tra tutte le fonti di energia rinnovabile, l'energia solare emerge come la più pervasiva nella nostra vita quotidiana attraverso l'impiego di impianti principalmente costituiti da pannelli solari e fotovoltaici. Questi sistemi, installati all'aperto, si trovano inevitabilmente esposti alle condizioni climatiche che ne compromettono l'efficienza a causa di accumuli di polvere, inquinamento atmosferico, foglie e sabbia.\\
+	In assenza di un adeguato processo di pulizia, un modulo solare contaminato potrebbe subire una perdita di efficienza energetica fino al 30\%, comportando una significativa diminuzione del suo potenziale. Tuttavia, nel caso in cui non si desideri ricorrere all'assistenza di professionisti per la pulizia in occasione di interventi necessari, le soluzioni di autolavaggio risultano notevolmente dispendiose o affette da imperfezioni.\\\\
 	\textbf{La soluzione}\\
-	\emph{Osmos} si propone di automatizzare la pulizia dei pannelli fotovoltaici.\\
-	Tramite il monitoraggio dell'efficienza del pannello il dispositivo fornito si rende conto di quando è necessaria la pulizia, e insieme all'apposito sistema idraulico si occupa del lavaggio del modulo stesso, rendendo più semplice, meno stancante e più economico per l'utilizzatore il processo di pulizia. Infatti grazie ad un sistema \emph{Osmos}, non sarà più necessario contattare imprese esterne specializzate nel lavaggio.\\
+	\emph{Osmos} si propone di automatizzare il processo di pulizia dei pannelli fotovoltaici. Attraverso il monitoraggio dell'efficienza del singolo modulo, il dispositivo integrato è in grado di determinare il momento ottimale per l'esecuzione della pulizia.\\
+	Con l'ausilio di un sistema idraulico dedicato, \emph{Osmos} si occupa autonomamente del lavaggio del pannello, semplificando e rendendo più efficiente, meno faticoso e più economico l'intero processo di manutenzione per l'utente. In virtù di questo sistema, non sarà più necessario ricorrere a imprese esterne specializzate nel lavaggio.\\
 	%Inoltre il nostro prodotto rende anche più abbordabile l'idea di installare dei pannelli fotovoltaici nelle proprie strutture, in quanto il nostro prodotto risulta più economico di altre soluzioni attualmente esistenti, e data l'espansione del mercato fotovoltaico, e per il calo dei prezzi di installazione degli impianti negli ultimi anni.
-	La soluzione proposta può risultare accattivante sia per nuovi utenti che per utilizzatori di vecchia data del fotovoltaico, perché il prodotto si va ad aggiungere a impianti già esistenti cooperandovi per migliorare le prestazioni.\\\\
-	%\textbf{Il settore}\\
-	%Come tutte le fonti di energia rinnovabile, anche il settore del fotovoltaico è in rapido aumento. Ciò è dovuto sia al fatto che queste risorse stanno guadagnando sempre più importanza, sia al fatto che il costo degli impianti fotovoltaici sta diminuendo nel tempo.\\
-	%Il settore è ricco di prodotti che integrano le capacità degli impianti fotovoltaici andando ad implementare features aggiuntive in modo simile ad \emph{Osmos}. In una situazione di questo tipo il progetto proposto per affermarsi fa leva sulla mancanza di soluzioni analoghe, oltre che sulla possibilità di fornire un beneficio al cliente.\\\\
-	%\textbf{Il mercato}\\\\
+	La soluzione proposta risulta accattivante sia per i nuovi utenti che per coloro che utilizzano l'energia fotovoltaica da tempo, poiché il prodotto può essere integrato negli impianti esistenti, contribuendo a migliorarne le prestazioni complessive.\\\\
 	Nella dissertazione seguente andremo ad analizzare più in dettaglio il problema ed il bisogno, conseguentemente esplicheremo la nostra soluzione e come essa si inserisce nel mercato, i vantaggi che porta e le curve di mercato.\\\\
 	Inoltre esporremo l'analisi della clientela, analizzata attraverso la somministrazione di un form online, %bo poi la diciamo meglio
 	esporremo le conclusioni tratte dai dati e tramite Empathy Map, Proposizione di Valore e l'utilizzo del modello MoSCoW andremo a spiegare\\ %che cazzo ne so ancora manca il capitolo
 	Esporremo poi il Modello di Business dove discuteremo le Value Proposition, la relazione col cliente, gli elementi chiave e l'analisi di costi e ricavi, mostrando il Business Model Canvas.\\\\
-	In conclusione, attraverso WBS e il prospetto di Gantt andremo ad indicare le attività principali da svolgere e i vincoli temporali che le caratterizzano
+	In conclusione, attraverso WBS e il prospetto di Gantt andremo ad indicare le attività principali da svolgere e i vincoli temporali che le caratterizzano.
 	\newpage
 	\section{Problema da risolvere}
 	Ai giorni nostri sempre maggiore importanza viene attribuita alle fonti di energia rinnovabili. Tra queste, l'energia solare è particolarmente degna di nota in quanto inesauribile, disponibile in enormi quantità ed utilizzabile per produrre energia elettrica e termica.\\
@@ -109,23 +104,21 @@
 	\end{itemize}
 	I dati registrati dal settore del fotovoltaico e le previsioni di crescita mostrate nelle figure di seguito, sottolineano il ruolo centrale delle fonti rinnovabili nel percorso di transizione energetica globale, riportando un indice CAGR che si aggira intorno al 30\%.
 	\begin{center}
-		\includegraphics[width=0.9\textwidth]{Images/previsioni_solare.jpg}
-		\includegraphics[width=0.73\textwidth]{Images/andamento_pannelli2.png}
+		\includegraphics[width=0.7\textwidth]{Images/previsioni_solare.jpg}
+		\includegraphics[width=0.7\textwidth]{Images/andamento_pannelli2.png}
 	\end{center}
 	Il settore del fotovoltaico è sufficientemente vasto da poter essere a sua volta suddiviso in due parti: una prima parte che comprende le imprese produttrici di moduli fotovoltaici (in cui i principali attori sono \emph{Sunpower, Panasonic, Exe Solar} e simili) e una seconda parte che riguarda le imprese produttrici di componenti cooperanti coi moduli fotovoltaici.\\\\
 	Sebbene esistano enti che si pongono a cavallo di questa partizione, \emph{Osmos} fa capo solamente alla seconda categoria. All'interno di questa non vi è grande frammentazione, infatti la maggioranza è occupata da \emph{Abb Spa}: una società fortemente coinvolta nella produzione di apparecchiature che garantiscono continuità di servizio, affidabilità e ritorno dell'investimento tramite interruttori, dispositivi di misurazione, sensori e altro.\\
 	I prodotti e servizi forniti da \emph{Abb Spa} sono poi utilizzabili anche in moltissimi altri settori eterogenei; questo aumenta considerevolmente l'influenza e il potere economico dell'impresa stessa, dandole la possibilità di imporsi nei confronti di altre società più specializzate quali \emph{Enel X} e \emph{SoralEdge Tecnology} come riportato nel grafico seguente:\\
-	\begin{center}
-		\includegraphics[width=0.7\textwidth]{Images/suddivisione_settore.png}
-	\end{center}
-	La proposta di \emph{Osmos} è ritenuta interessante per l'attuale situazione del settore, sia perché l'ambito del fotovoltaico si sta ampliando, sia a causa della mancanza di una soluzione a supporto dei moduli fotovoltaici specializzata nella pulizia di questi, ad esclusione dei pannelli autopulenti già menzionati.\\\\
+	\includegraphics[width=\textwidth]{Images/suddivisione_settore.png}
+	La proposta di \emph{Osmos} è ritenuta interessante per l'attuale situazione del settore, sia perché l'ambito del fotovoltaico si sta ampliando, sia a causa della mancanza di una soluzione a supporto dei moduli fotovoltaici specializzata nella pulizia di questi, ad esclusione dei pannelli autopulenti già menzionati.\\
 	La strategia adottata è riportata di seguito:
 	\begin{center}
-		\includegraphics[width=0.8\textwidth]{Images/SWOT2.png}
+		\includegraphics[width=0.9\textwidth]{Images/SWOT2.png}
 	\end{center}
 	Inoltre, si riportano qui gli obiettivi perseguiti da \emph{Osmos} confrontati con quelli dei principali competitor sopra citati:
 	\begin{center}
-		\includegraphics[width=0.8\textwidth]{Images/curve_valore.png}
+		\includegraphics[width=\textwidth]{Images/curve_valore.png}
 	\end{center}
 	Tra queste caratteristiche spiccano in particolar modo il funzionamento 24/7 e l'offerta di un prodotto user-friendly. Il nostro prodotto non ha bisogno di essere costantemente in funzione, ma necessita di essere operativo solamente in quei pochi minuti del giorno che comprendono l'analisi delle prestazioni ed eventualmente l'esecuzione della pulizia.\\
 	Per quanto invece riguarda la possibilità di offrire un prodotto user-friendly, questa non è una caratteristica fondamentale per \emph{Osmos}, in quanto alla base del prodotto stesso vi è l'idea di minimizzare l'interazione con l'utente, facendo in modo che il sistemi operi in modo invisibile agli occhi del cliente.
@@ -151,7 +144,7 @@
 	Una volta individuati i bisogni del pubblico è necessario procedere a classificarli singolarmente differenziando quelli che il cliente considera come di massima importanza da quei bisogni ritenuti secondari o trascurabili.\\
 	In questo modo ogni bisogno (o caratteristica del prodotto finale) è stato classificato come appartenente ad una gerarchia composta da 4 categorie: \emph{Must} (ciò che la soluzione finale deve soddisfare a tutti i costi), \emph{Should} (elementi ad alta priorità da includere subito dopo i precedenti), \emph{Could} (requisiti auspicabili, inseriti se tempo e risorse lo permettono) e \emph{Won't} (caratteristiche che accetto di non vedere implementate ma che posso considerare in futuro)
 	\begin{center}
-		\includegraphics[width=0.7\textwidth]{Images/MoSCoW.png}
+		\includegraphics[width=0.6\textwidth]{Images/MoSCoW.png}
 	\end{center}
 	\section{Modello di business}
 	\textbf{Value Proposition}\\
