@@ -39,8 +39,8 @@ int button = 13;
 int EFICIENCY=100;
 
 // TO BE SET FOR OPTIMAL DEMO 
-int WARNING_TRESHOLD=95;
-int CRITICAL_TRESHOLD=90;
+int WARNING_TRESHOLD=90;
+int CRITICAL_TRESHOLD=80;
 
 int buttonState=0;
 
@@ -55,7 +55,7 @@ void clearDisplay(){
 void startCleanUp(){
   // start cleanup process
   clearDisplay();
-  lcd.print("pannello sporco pulizia necessaria");  
+  lcd.print("Pannello sporco pulizia necessaria");  
   digitalWrite(ledRed,HIGH);
   digitalWrite(ledGreen,LOW);
   digitalWrite(ledYellow,LOW);
@@ -63,7 +63,7 @@ void startCleanUp(){
   delay(1000);
   // end cleanup process
   clearDisplay();
-  lcd.print("pulizia completata");  
+  lcd.print("Pulizia completata");  
   Servo1.write(0);
   //digitalWrite(ledRed,LOW);
   //digitalWrite(ledGreen,LOW);
@@ -104,14 +104,14 @@ void loop() {
     startCleanUp();
   }
   if(EFICIENCY > WARNING_TRESHOLD){
-    lcd.print("efficienza:");  
+    lcd.print("Efficienza:");  
     lcd.print(EFICIENCY);  
     digitalWrite(ledGreen,HIGH);
     digitalWrite(ledYellow,LOW);
     digitalWrite(ledRed,LOW);
   }
   if(EFICIENCY <= WARNING_TRESHOLD && EFICIENCY > CRITICAL_TRESHOLD ){
-    lcd.print("efficienza:");  
+    lcd.print("Efficienza:");  
     lcd.print(EFICIENCY);  
     digitalWrite(ledRed,LOW);
     digitalWrite(ledGreen,LOW);
@@ -123,11 +123,3 @@ void loop() {
 
   delay(1000);
 }  
-
-
-// numero che decrementa ogni secondo, printa valore in display
-// sotto soglia colora led, 
-// sotto soglia critica 
-// se pulsante premuto attiva soglia critica
-
-
