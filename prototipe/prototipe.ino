@@ -60,7 +60,7 @@ void startCleanUp(){
   digitalWrite(ledGreen,LOW);
   digitalWrite(ledYellow,LOW);
   Servo1.write(180);
-  delay(1000);
+  delay(2000);
   // end cleanup process
   clearDisplay();
   lcd.print("Pulizia completata");  
