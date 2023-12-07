@@ -1,6 +1,9 @@
-#  PROGETTO GIP PANNELLI SOLARI
+# OSMOS
+
+![](Report/Images/LogoGip.png)
 
 la repository è un vault di obsidian, si consiglia di editare all' occorrenza con obsidian
+
 ## INFORMAZIONI DI UTILITÀ
 
 per vedere cosa si e detto alle riunioni consultare i file in `appunti_riunioni`
