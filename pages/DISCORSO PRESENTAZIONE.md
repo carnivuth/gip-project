@@ -23,17 +23,39 @@ IWS crea vetri temperati con il laser per rendere più difficile che si attacchi
 # SLIDE 6
 La nostra soluzione
 NOTA: non si sostituisce ma si aggiunge alle soluzioni già esistenti
-# SLIDE 7
+# SLIDE 5
+
+descrivo principali competitors:
+
+- MIT soluzione che sfrutta impulsi elettrici e movimenti meccanici per scurlare il pannello
+
+- Fraunhofer IWS soluzione che sfrutta pannelli con vetro temprato al laser che impedisce allo sporco di aderire al pannello 
+
+soluzioni non molto efficaci e costose
+
+## SLIDE 6
 
 
-## INTRODUZIONE
+descrivo la soluzione osmos obbiettivo pulire il pannello con una cascata d'acqua sul pannello: 
 
-spiegazione nome 
+-  soluzione automatica, l'utente non deve intervenire nel processo di pulizia
+- soluzione integrata con le tecnologie gia presenti in un impianto fotovoltaico
+- soluzione piu economica solo costo dell'acqua osmotica
 
-Introduzione gruppo
+## SLIDE 7
 
-# SLIDE 3-4-5
+- dispenser acqua osmotica
+- main controller 
+	- segnala lo stato dell'impianto 
+	- monitora lo stato attraverso ottimizzatori
+	- avvia la pulizia automaticamente
 
-## SPIEGAZIONE PROBLEMA
+## SLIDE 8 
 
-qual'e il problema?  
+ - mercato in continua crescita  (cop 28 triplicare le fonti rinnovabili nel mondo)
+ - target sia utenti che imprese
+ - contratti con imprese in modo da installare i pannelli con gia osmos a bordo
+
+## SLIDE 9 
+
+il team di osmos vi ringrazia per l'attenzione
